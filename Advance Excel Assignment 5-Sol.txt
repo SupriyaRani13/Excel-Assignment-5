@@ -1,0 +1,126 @@
+Advance Excel Assignment 5:-
+
+1. How many types of conditions are available in conditional formatting on Excel?
+
+Sol: Types of conditions are available in conditional formatting on Excel:-
+     
+     1.Cell Value: You can format cells based on their specific values, such as greater than, less than, equal to, between, etc.
+     2.Specific Text: This allows you to format cells based on specific text values, such as containing, not containing, beginning with, ending with.
+     3.Dates: Conditional formatting can be applied based on various date-related conditions, like today's date, past or future dates, specific date ranges.
+     4.Duplicates: This condition enables you to highlight duplicate or unique values within a range of cells.
+     5.Blanks: You can format cells that are empty or contain no values.
+
+2. How to insert border in Excel with Format Cells dialog?
+ 
+ Sol: To insert a border in Excel using the Format Cells dialog, you can follow these steps:-
+    
+     1.Select the cell or range of cells where you want to apply the border.
+
+     2.Right-click on the selected cell(s) and choose Format Cells from the context menu. Alternatively, you can go to the "Home" tab in the Excel 
+       ribbon, click on the Format dropdown arrow in the Cells group, and select Format Cells from the list.
+
+    3.In the Format Cells dialog box, navigate to the "Border" tab.
+
+    4.In the Presets section, you can choose from different predefined border styles such as None,Outline,Inside,or Outside. 
+         Then, Select the desired preset that suits your formatting needs.
+
+    5.If you want to customize the border further, you can use the options available in the Style,Color, and Width sections.
+
+    6.In the Style section, you can choose the line style of the border, such as solid, dashed, dotted, double, etc.
+
+3. How to Format Numbers as Currency in Excel?
+
+ Sol: To format numbers as currency in Excel, you can follow these steps:-
+
+     1.Select the cell(s) or range of cells that you want to format as currency.
+
+    2.Right-click on the selected cell(s) and choose Format Cells from the context menu. Alternatively, you can go to the Home tab in the 
+      Excel ribbon, click on the Format dropdown arrow in the Number group, and select Format Cells from the list.
+
+    3.In the Format Cells dialog box, go to the "Number" tab.
+
+    4.In the Category list on the left side of the dialog, select Currency.
+
+    5.From the available options on the right side, you can choose different currency symbols, decimal places, and negative number formatting.
+
+    6.Currency Symbol: You can select the desired currency symbol from the dropdown list, such as "$" for US Dollar, "€" for Euro, "£" 
+      for British Pound, etc.
+     Decimal Places: Specify the number of decimal places you want to display for the currency. 
+
+    7.We can preview the formatting changes in the Sample section of the dialog box.
+
+    8.Then, Once you are satisfied with the currency formatting settings, click on the OK button to apply the formatting to the selected cell(s).
+
+
+4. What are the steps to format numbers in Excel with the Percent style?
+
+ Sol: To format numbers in Excel with the Percent style, you can follow these steps:-
+
+    1.On the Home tab, in the Number group, click the icon next to Number to display the Format Cells dialog box.
+    2.In the Format Cells dialog box, in the Category list, click Percentage.
+    3.In the Decimal places box, enter the number of decimal places that you want to display.
+
+5. What is a shortcut to merge two or more cells in excel?
+
+ Sol: Shortcut to merge two or more cells in excel:-
+   
+    1.Select the cells you want to merge. The cells should be adjacent to each other.
+
+    2.Press and hold the "Alt" key on your keyboard.
+
+    3.While holding the "Alt" key, press the "H" key.
+
+    4.Release both keys.
+
+    5.Press the "M" key.
+
+    6.Press the "Enter" key.
+
+
+6. How do you use text commands in Excel?
+
+Sol: We can use text commands in Excel:-
+
+   1.CONCATENATE: This command allows we to combine text from different cells into a single cell. We can use it by typing = CONCATENATE(cell1, cell2, ...).
+
+   2.LEFT, RIGHT, MID: These commands allow we to extract a specific number of characters from the left, right, or middle of a cell's text. 
+     For example, "=LEFT(cell, num_chars)" will extract the leftmost characters from the cell.
+
+   3.LEN: The LEN command returns the length (number of characters) of a cell's text. It can be used by typing "=LEN(cell)".
+
+   4.UPPER, LOWER, PROPER: These commands allow you to change the case of text. UPPER converts text to uppercase, 
+    LOWER converts it to lowercase, and PROPER capitalizes the first letter of each word. For example, "=UPPER(cell)" will convert
+    the text in the cell to uppercase.
+
+   5.TRIM: The TRIM command removes extra spaces from a cell's text. It can be used by typing "=TRIM(cell)".
+
+   6.SUBSTITUTE: This command replaces specific text within a cell with other text. It can be used by typing = SUBSTITUTE(cell, 
+     old_text, new_text, instance_num).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
